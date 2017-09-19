@@ -17,3 +17,18 @@ layout: default
 
 {% include read-more.html %}
 {% include comments.html %}
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'ltt-gddxz',
+    repo: 'ltt-gddxz.github.io',
+    oauth: {
+        client_id: '809332aa9ed960d9ddbf',
+        client_secret: '13d8efcd864dcc53afc82587ab3b18a5a1eb9342',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
