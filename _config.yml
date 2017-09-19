@@ -1,9 +1,10 @@
 # Basic
 title: 李涛涛的博客
-subtitle: 关注机器学习和图像处理，也记录个人生活与思考。
-welcome_message: <a href="http://ltt-gddxz.github.io" target="_blank">欢迎访问和评论</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: 
+welcome_message: <a href="http://ltt-gddxz.github.io" target="_blank"></a>
+description: 关注机器学习和图像处理，也记录个人生活与思考。
+creator: <a href="http://weibo.com/u/2720974317?refer_flag=1001030201_">@李涛涛Thinking</a>
+creator: <a href="http://ltt-gddxz.github.io">@ltt-gddxz</a>
 
 url: "http://ltt-gddxz.github.io"
 
@@ -13,7 +14,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: black
 
 # The blog button should not be removed.
 blog_button:
@@ -37,8 +38,8 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
+    weibo: 李涛涛Thinking
+    github: ltt-gddxz
     mail: 18810271756@163.com
 
 # Google Analytics
